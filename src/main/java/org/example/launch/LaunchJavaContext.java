@@ -5,8 +5,6 @@ import org.example.service.BusinessService;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
-import java.util.logging.Logger;
-
 public class LaunchJavaContext {
 
     public static void main(String[] args) {
